@@ -14,6 +14,7 @@ temporizador: de manera que cuando el temporizador llege a 0 gane el jugador
 
 colisionador: sirve para que el enemigo colisiona con el jugador te ofrezca un gameover
 
-Toda la información que necesita saber esta documentado en cada script
+he de decir que casi todos los scripts estan en public en vez de private para que puedas disfrutar de cambiar el valor del tiempo,disparo,número de enemigos,etc...
 
+Toda la información que necesita saber esta documentado en cada script también utiliza agile
  
